@@ -33,3 +33,21 @@
         usuário garantindo assim que o código funcione de maneira correta, porém esses testes aumentam o tempo necessário ára o desenvolvimento, podendo atrasar a entrega do
         produto. Já com um tempo de entrega dentro do prazo a confiança do cliente se manterá, evitando penalidades sobre o contrato, podendo ser decisivo para a competitividade do
         negócio, em contrapartida, por tem entregado no prazo, alguns problemas em relação ao código podem ter passados despercebidos pois a funcionalidade ou parte não foi testada.
+
+
+4. Diagrama UML
+
+[uml.png]
+
+5. Java respectivo
+
+    - Código Java
+    [Pet.png]
+    [Dono.png]
+    [Servico.png]
+
+
+6. Testes JUnit
+
+    - Código
+    [6.png]
