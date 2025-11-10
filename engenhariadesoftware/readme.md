@@ -62,9 +62,9 @@
     - Código Java <br>
     ![](Cliente.png)
     ![](Produto.png)
-    ![](Venda.png)
+    ![](Vendacod.png)
 
 9. Testes JUnit
 
     - Código
-    ![](Vendacod.png)
+    ![](9.png)
