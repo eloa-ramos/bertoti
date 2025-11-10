@@ -51,3 +51,20 @@
 
     - Código
     ![](6.png)
+
+7. Outro diagrama UML
+
+![](Venda.png)
+
+
+8. Java respectivo
+
+    - Código Java <br>
+    ![](Cliente.png)
+    ![](Produto.png)
+    ![](Venda.png)
+
+9. Testes JUnit
+
+    - Código
+    ![](Vendacod.png)
